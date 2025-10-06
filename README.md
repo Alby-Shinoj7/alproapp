@@ -72,5 +72,4 @@ GitHub Actions workflow (`ci.yml`) runs linting, type-checking, and unit tests o
 | `npm run format` | Check formatting |
 | `npm run format:write` | Fix formatting |
 
-## License
-MIT
+
