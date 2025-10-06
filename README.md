@@ -19,7 +19,6 @@ Cross-platform Expo + React Native app that helps students adopt sustainable dai
 npm install
 ```
 
-> **Note:** Commit the generated `package-lock.json` after your first successful install so that CI caching and reproducible builds remain stable. The repository does not ship a pre-generated lock file because the scaffold is created in a restricted environment without npm registry access.
 
 ### Development
 ```bash
@@ -74,5 +73,4 @@ GitHub Actions workflow (`ci.yml`) runs linting, type-checking, and unit tests o
 | `npm run format` | Check formatting |
 | `npm run format:write` | Fix formatting |
 
-## License
-MIT
+
