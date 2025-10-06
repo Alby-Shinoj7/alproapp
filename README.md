@@ -19,6 +19,7 @@ Cross-platform Expo + React Native app that helps students adopt sustainable dai
 npm install
 ```
 
+
 ### Development
 ```bash
 npm run start
