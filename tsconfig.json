@@ -1,0 +1,18 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "noEmit": true,
+    "skipLibCheck": false,
+    "baseUrl": "."
+  },
+  "include": [
+    "App.tsx",
+    "tests",
+    "jest.config.ts",
+    "jest.setup.ts",
+    "metro.config.js",
+    "babel.config.js",
+    "expo-env.d.ts"
+  ]
+}
